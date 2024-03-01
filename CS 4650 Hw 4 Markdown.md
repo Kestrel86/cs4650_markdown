@@ -16,7 +16,7 @@ Ranked from **best** to ~~worst~~:
 | Github | ![media, network, web, social media, Social, Github Icon](https://www.shareicon.net/data/64x64/2017/03/07/880593_media_512x512.png) |
 | StackOverflow | ![](https://blog.grio.com/wp-content/uploads/2012/09/stackoverflow.png) |
 | Discord | ![](https://de.filester.net/images/apps/discord.webp) |
-| Slack | ![Slack icon](https://images.prismic.io/smarttask/1c150a8e-9f13-420e-8b0f-e6365219250f_slack.png?auto=compress,format =64x64) |
+| Slack | ![Slack icon](https://images.prismic.io/smarttask/1c150a8e-9f13-420e-8b0f-e6365219250f_slack.png?auto=compress,format=64x64) |
 | Facebook Messenger | ![facebook messenger Icon](https://www.shareicon.net/data/64x64/2016/07/10/119903_facebook-messenger_512x512.png) |
 
 - Winners :trophy:
