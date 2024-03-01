@@ -81,10 +81,11 @@ than it is to get permission<br>
 <td>em<strong>bold</strong>en</td>
 </tr>
 </tbody>
-</table><pre class=" language-go"><code class="prism  language-go"><span class="token keyword">import</span> <span class="token string">"fmt"</span> 
-<span class="token keyword">func</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> 
-		fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span><span class="token string">"Hello, World!"</span><span class="token punctuation">)</span> 
-<span class="token punctuation">}</span> 
+</table><pre class=" language-go"><code class="prism  language-go"><span class="token keyword">import</span> <span class="token string">"fmt"</span>
+
+<span class="token keyword">func</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+     fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span><span class="token string">"Hello, World!"</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span>
 </code></pre>
 <pre><code>```go
 import "fmt"
