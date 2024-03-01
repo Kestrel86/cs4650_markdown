@@ -1,79 +1,123 @@
-﻿## Markdown Challenge
-![Markdown - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png =500x308)
-Welcome to the https://beyondcodebootcamp.com Markdown Challenge!
+---
 
-Your Mission, if you choose to accept it is to recreate this document, exactly, using only Markdown and gist.github.com.
 
-***Hint***: Read this whole thing first. Then recreate it **one** line at a time.
+---
 
-Also, everything you need is at https://bit.ly/beyondcode-markdown.
+<h2 id="markdown-challenge">Markdown Challenge</h2>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png" alt="Markdown - Wikipedia" width="500" height="308"><br>
+Welcome to the <a href="https://beyondcodebootcamp.com">https://beyondcodebootcamp.com</a> Markdown Challenge!</p>
+<p>Your Mission, if you choose to accept it is to recreate this document, exactly, using only Markdown and <a href="http://gist.github.com">gist.github.com</a>.</p>
+<p><em><strong>Hint</strong></em>: Read this whole thing first. Then recreate it <strong>one</strong> line at a time.</p>
+<p>Also, everything you need is at <a href="https://bit.ly/beyondcode-markdown">https://bit.ly/beyondcode-markdown</a>.</p>
+<h2 id="who-supports-markdown">Who Supports <code>Markdown</code>?</h2>
+<p>Ranked from <strong>best</strong> to <s>worst</s>:</p>
 
-## Who Supports ```Markdown```? 
-Ranked from **best** to ~~worst~~:
-|Site / App| Logo |
-|--|--|
-| Github | ![Github Logo - Free social media icons](https://cdn-icons-png.flaticon.com/512/25/25231.png =64x64) |
-| StackOverflow | ![Stack Overflow SVG Vector Logos - Vector Logo Zone](https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.png =128x128) |
-| Discord | ![Discord V2 Vector SVG Icon - SVG Repo](https://www.svgrepo.com/show/331368/discord-v2.svg =64x64) |
-| Slack | ![File:Slack icon 2019.svg - Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png =64x64) |
-| Facebook Messenger | ![Free Facebook Messenger SVG, PNG Icon, Symbol. Download Image.](https://www.iconpacks.net/icons/2/free-facebook-messenger-icon-2881-thumb.png =64x64) |
+<table>
+<thead>
+<tr>
+<th>Site / App</th>
+<th>Logo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Github</td>
+<td><img src="https://www.shareicon.net/data/64x64/2017/03/07/880593_media_512x512.png" alt="media, network, web, social media, Social, Github Icon"></td>
+</tr>
+<tr>
+<td>StackOverflow</td>
+<td><img src="https://images-ext-1.discordapp.net/external/N7qyZoQQzgZqkiat3HSUWh7kDwtjudSeNvHTOu1vFkI/https/blog.grio.com/wp-content/uploads/2012/09/stackoverflow.png?format=webp&amp;quality=lossless" alt="" width="128" height="127"></td>
+</tr>
+<tr>
+<td>Discord</td>
+<td><img src="https://de.filester.net/images/apps/discord.webp" alt=""></td>
+</tr>
+<tr>
+<td>Slack</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="File:Slack icon 2019.svg - Wikimedia Commons" width="64" height="64"></td>
+</tr>
+<tr>
+<td>Facebook Messenger</td>
+<td><img src="https://www.shareicon.net/data/64x64/2016/07/10/119903_facebook-messenger_512x512.png" alt="facebook messenger Icon"></td>
+</tr>
+</tbody>
+</table><ul>
+<li>Winners 🏆<br>
+i. Github<br>
+ii. Stackoverflow<br>
+iii. Discord</li>
+<li>Honorable Mentions 👍
+<ul>
+<li>Slack</li>
+<li>Facebook Messenger</li>
+</ul>
+</li>
+</ul>
+<h2 id="escape-test">Escape Test</h2>
+<blockquote>
+<p>It’s easier to ask forgiveness<br>
+than it is to get permission<br>
+– Grace hopper</p>
+</blockquote>
 
-- Winners 🏆
-	i. Github
-	ii. Stackoverflow
-	iii. Discord
-- Honorable Mentions 👍
-	- Slack
-	- Facebook Messenger
+<table>
+<thead>
+<tr>
+<th><strong>Markdown</strong></th>
+<th><strong>Render</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>**bold**,  _italic_</td>
+<td><strong>bold</strong>, <em>italic</em></td>
+</tr>
+<tr>
+<td>`code`, ~strike~</td>
+<td><code>code</code>, <s>strike</s></td>
+</tr>
+<tr>
+<td>em***bold***en</td>
+<td>em<strong>bold</strong>en</td>
+</tr>
+</tbody>
+</table><pre class=" language-go"><code class="prism  language-go"><span class="token keyword">import</span> <span class="token string">"fmt"</span>
 
-## Escape Test
-> It's easier to ask forgiveness
-> than it is to get permission 
-> -- Grace hopper
-> 
-|**Markdown**| **Render** |
-|--|--|
-| \*\*bold\*\*,  _italic\_ | **bold**, _italic_ |
-| \`code\`, \~strike~ | `code`, ~~strike~~|
-| em***bold***en | em**bold**en |
-
-```go
+<span class="token keyword">func</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+     fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span><span class="token string">"Hello, World!"</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<pre><code>```go
 import "fmt"
 
 func main() {
-     fmt.Println("Hello, World!")
+    fmt.Println("Hello, World!")
 }
 ```
-
-    ```go
-    import "fmt"
-    
-    func main() {
-	    fmt.Println("Hello, World!")
-	}
-	```
-```
-~~~md
+</code></pre>
+<pre><code>~~~md
 **bold**, _italic_
 `code`, ~strike~
 em***bold***en
 ~~~
-```
-## Reminder 
-
- - [x] Get Logos
- - [ ] Check spacing, styles, syntax, etc
- 
-## :link: Resources
-### Images
-#### Google Images (h4)
-##### PNG Logos (h5)
-###### With `imagesize` (h6)
-Use _Google Images_ to find the images used here:
- - markdown logo png imagesize:**500x308**
- - github logo png imagesize:64x64
- - discord logo png imagesize:64x64
- - stackoverflow png imagesize:**128x128**
- - facebook logo png imagesize:64x64
- - slack logo png imagesize:64x64
+</code></pre>
+<h2 id="reminder">Reminder</h2>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> Get Logos</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Check spacing, styles, syntax, etc</li>
+</ul>
+<h2 id="resources">Resources</h2>
+<h3 id="images">Images</h3>
+<h4 id="google-images-h4">Google Images (h4)</h4>
+<h5 id="png-logos-h5">PNG Logos (h5)</h5>
+<h6 id="with-imagesize-h6">With <code>imagesize</code> (h6)</h6>
+<p>Use <em>Google Images</em> to find the images used here:</p>
+<ul>
+<li>markdown logo png imagesize:<strong>500x308</strong></li>
+<li>github logo png imagesize:64x64</li>
+<li>discord logo png imagesize:64x64</li>
+<li>stackoverflow png imagesize:<strong>128x128</strong></li>
+<li>facebook logo png imagesize:64x64</li>
+<li>slack logo png imagesize:64x64</li>
+</ul>
 
