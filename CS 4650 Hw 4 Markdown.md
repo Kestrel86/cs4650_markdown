@@ -4,7 +4,7 @@
 ---
 
 <h2 id="markdown-challenge">Markdown Challenge</h2>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png" alt="Markdown - Wikipedia" width="500" height="308"><br>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png" alt="Markdown - Wikipedia"><br>
 Welcome to the <a href="https://beyondcodebootcamp.com">https://beyondcodebootcamp.com</a> Markdown Challenge!</p>
 <p>Your Mission, if you choose to accept it is to recreate this document, exactly, using only Markdown and <a href="http://gist.github.com">gist.github.com</a>.</p>
 <p><em><strong>Hint</strong></em>: Read this whole thing first. Then recreate it <strong>one</strong> line at a time.</p>
