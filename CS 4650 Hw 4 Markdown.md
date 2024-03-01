@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="markdown-challenge">Markdown Challenge</h2>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png" alt="Markdown - Wikipedia" width="500" height="308"><br>
 Welcome to the <a href="https://beyondcodebootcamp.com">https://beyondcodebootcamp.com</a> Markdown Challenge!</p>
