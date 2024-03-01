@@ -1,5 +1,6 @@
 ## Markdown Challenge
 ![Markdown - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png)
+
 Welcome to the https://beyondcodebootcamp.com Markdown Challenge!
 
 Your Mission, if you choose to accept it is to recreate this document, exactly, using only Markdown and gist.github.com.
@@ -19,6 +20,7 @@ Ranked from **best** to ~~worst~~:
 | Facebook Messenger | ![facebook messenger Icon](https://www.shareicon.net/data/64x64/2016/07/10/119903_facebook-messenger_512x512.png) |
 
 - Winners :trophy:
+
 	i. Github
 	ii. Stackoverflow
 	iii. Discord
