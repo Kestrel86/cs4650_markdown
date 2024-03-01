@@ -1,34 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CS 4650 Hw 4 Markdown</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li>
-<ul>
-<li><a href="#markdown-challenge">Markdown Challenge</a></li>
-<li><a href="#who-supports-markdown">Who Supports Markdown?</a></li>
-<li><a href="#escape-test">Escape Test</a></li>
-<li><a href="#reminder">Reminder</a></li>
-<li><a href="#resources">Resources</a></li>
-</ul>
-</li>
-</ul>
+---
 
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h2 id="markdown-challenge">Markdown Challenge</h2>
+<h2 id="markdown-challenge">Markdown Challenge</h2>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png" alt="Markdown - Wikipedia" width="500" height="308"><br>
 Welcome to the <a href="https://beyondcodebootcamp.com">https://beyondcodebootcamp.com</a> Markdown Challenge!</p>
 <p>Your Mission, if you choose to accept it is to recreate this document, exactly, using only Markdown and <a href="http://gist.github.com">gist.github.com</a>.</p>
@@ -146,8 +121,3 @@ em***bold***en
 <li>slack logo png imagesize:64x64</li>
 </ul>
 
-    </div>
-  </div>
-</body>
-
-</html>
